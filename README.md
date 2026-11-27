@@ -21,7 +21,7 @@ SIEM / Monitoring: Wazuh · Splunk (learning) Analysis: Wireshark · tcpdump · 
 
 📜 Certifications & training
 Goal	Status
-Google IT Support / CompTIA A+	In progress
+Lead Auditor 27001 CertiProf
 TryHackMe — SOC Level 1 path	In progress
 CompTIA Security+	Planned
 English B2+	In progress
