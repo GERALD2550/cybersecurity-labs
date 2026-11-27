@@ -51,7 +51,7 @@ my English to a professional level. This repository is my practical learning log
 | Lead Auditor ISO27001 | Completed |
 | TryHackMe — SOC Level 1 path | In progress |
 | CompTIA Security+ | Planned |
-| English B2+ | In progress |
+
 
 ---
 
